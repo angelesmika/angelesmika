@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mika Angeles!
 - 👀 I’m interested in web development, software engineering, and project management!
-- 🌱 I’m currently learning Javascript.
+- 💻 I have a lot of experience in Python and C/C++, but I'm still trying to enhance my knowledge in those languages.
+- 🌱 I’m currently learning Java and Javascript.
 
 - 📫 You may reach me at angelesmika8@gmail.com :)
 
