@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mika Angeles!
 - 👀 I’m interested in software engineering and project management!
-- 💻 I have a lot of experience in Python and C/C++, but I'm still trying to enhance my knowledge in those languages.
+- 💻 I have a lot of experience in Python and C/C++, also ReactJS, Bootstrap, and Tailwind CSS.
 
 - 📫 You may reach me at angelesmika8@gmail.com :)
 
